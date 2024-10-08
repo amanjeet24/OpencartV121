@@ -1,12 +1,24 @@
-2024-08-20 10:37:30 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-08-20 10:37:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-08-20 10:37:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-08-20 10:37:31 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-08-20 10:37:33 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-20 10:37:34 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
-2024-08-20 10:56:59 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2024-08-20 10:56:59 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2024-08-20 10:56:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2024-08-20 10:56:59 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2024-08-20 10:57:02 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2024-08-20 10:57:02 INFO  TC001_AccountRegistrationTest:64 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-08 11:16:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amanj\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-08 11:16:32 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:16:44 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:16:51 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:16:51 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:16:56 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:17:11 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:17:11 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:17:19 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:18:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amanj\eclipse-workspace\OpencartV121\master.xml
+
+2024-10-08 11:18:37 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:18:53 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:18:53 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:19:00 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:19:00 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:19:07 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:19:07 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:19:22 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************
+2024-10-08 11:19:22 INFO  TC003_LoginDDT:18 - ****Starting TC003_LoginDDT************
+2024-10-08 11:19:30 INFO  TC003_LoginDDT:66 - ****Finishing TC003_LoginDDT************

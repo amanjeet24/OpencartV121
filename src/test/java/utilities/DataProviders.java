@@ -18,7 +18,7 @@ public class DataProviders {
 		
 		String logindata[][]= new String[totalrows][totalcols];
 		
-		for(int i=1; i<totalrows; i++)
+		for(int i=1; i<=totalrows; i++)
 		{
 			for(int j=0; j<totalcols; j++)
 			{
